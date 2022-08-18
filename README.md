@@ -20,4 +20,4 @@ Case 3 : On clicking the Piano button user will be redirected to the Piano app ,
 
 
 
-
+* I'll add more functionalities in this project. (Especially backened part)
