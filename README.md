@@ -1,10 +1,8 @@
 # College Try-Catch 
 
-## Topic => Create Graphical User Interface using java Swing and Applet
+## Graphical User Interface using java Swing and Applet
 
-## Title => Portal for College Student.
-
-## Technical Stack Used => Netbeans
+##  Portal for College Student
 
 # Steps Involved:
 
@@ -23,23 +21,23 @@ On clicking the Piano button user will be redirected to the Piano app , where St
 
 ## Sample Outputs:
 ### Sample Output 1:
-![Sample Output 1]()
+![Sample Output 1](https://github.com/priyasng/College-Try-Catch/blob/main/images/login.jpeg)
 
 ### Sample Output 2:
-![Sample Output 2]()
+![Sample Output 2](https://github.com/priyasng/College-Try-Catch/blob/main/images/digitalclock.jpeg)
 
 
 ### Sample Output 3:
-![Sample Output 3]()
+![Sample Output 3](https://github.com/priyasng/College-Try-Catch/blob/main/images/notepadapp.jpeg)
 
 
 ### Sample Output 4:
-![Sample Output 4]()
+![Sample Output 4](https://github.com/priyasng/College-Try-Catch/blob/main/images/piano.jpeg)
 
 
 ### Sample Output 5:
-![Sample Output 5]()
+![Sample Output 5](https://github.com/priyasng/College-Try-Catch/blob/main/images/todo.jpeg)
 
 
 
-### * In future I'll add more functionalities in this project. (Especially backened part)
+### * In future I'll add more functionalities in this project. Especially backened part for storing login  data , to-do data etc.
