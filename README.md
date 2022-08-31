@@ -19,6 +19,11 @@ On clicking the Notepad button user will be redirected to the Note pad applicati
 ### Case 3 : 
 On clicking the Piano button user will be redirected to the Piano app , where Student can play piano as their hobby .
 
+## To simply run this model:
+1.Clone the repository
+2.Run the [src file](https://github.com/priyasng/College-Try-Catch/tree/main/GuiFirst/src/mypackage).
+3.View the application
+
 ## Sample Outputs:
 ### Sample Output 1:
 ![Sample Output 1](https://github.com/priyasng/College-Try-Catch/blob/main/images/login.jpeg)
